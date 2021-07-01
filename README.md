@@ -19,3 +19,4 @@ Coronavirus stats over the world and Turkey with python
 * World
   * LSTM_prediction.ipynb
   * world_map.ipynb
+* media
