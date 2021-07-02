@@ -32,3 +32,8 @@ The number of cases tends to decrease after the peak in our 3 big cities. Althou
 If we group the cities according to their color values, we can observe the same pattern.
 
 ![alt text](media/cities.png)
+
+We can also look at the number of cases on the map. It can help us establish a correlation between factors such as geography, culture, climate and the number of cases.
+
+![alt text](media/colormap.png)
+
