@@ -28,3 +28,7 @@ The number of cases tends to decrease after the peak in our 3 big cities. Althou
 ![alt text](media/istanbul.png)
 ![alt text](media/ankara.png)
 ![alt text](media/izmir.png)
+
+If we group the cities according to their color values, we can observe the same pattern.
+
+![alt text](media/cities.png)
