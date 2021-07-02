@@ -42,3 +42,15 @@ We can also look at the number of cases on the map. It can help us establish a c
 While the number of cases and deaths showed a decreasing trend in June, the recovery numbers decreased in the middle of the month and then started to rise.
 
 ![alt text](media/june_stats.png)
+
+## World
+
+While the number of cases is falling in India and the United States, Brazil remains high.
+
+![alt text](media/world_line.png)
+
+The 20 countries with the highest number of cases, based on the average number of cases for the last 7 days.
+
+![alt text](media/world_bar.png)
+
+![alt text](media/world_pie.png)
