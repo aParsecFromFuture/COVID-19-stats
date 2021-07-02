@@ -18,7 +18,7 @@ Coronavirus stats over the world and Turkey with python
   * regional_stats.ipynb
 * World
   * LSTM_prediction.ipynb
-  * world_map.ipynb
+  * general_stats.ipynb
  
 ## Turkey
 ### City Stats (number of cases per hundred thousand people)
