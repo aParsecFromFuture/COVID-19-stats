@@ -52,5 +52,3 @@ While the number of cases is falling in India and the United States, Brazil rema
 The 20 countries with the highest number of cases, based on the average number of cases for the last 7 days.
 
 ![alt text](media/world_bar.png)
-
-![alt text](media/world_pie.png)
