@@ -37,3 +37,8 @@ We can also look at the number of cases on the map. It can help us establish a c
 
 ![alt text](media/colormap.png)
 
+### June Stats
+
+While the number of cases and deaths showed a decreasing trend in June, the recovery numbers decreased in the middle of the month and then started to rise.
+
+![alt text](media/june_stats.png)
