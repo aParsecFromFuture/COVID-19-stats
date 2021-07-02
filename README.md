@@ -19,3 +19,12 @@ Coronavirus stats over the world and Turkey with python
 * World
   * LSTM_prediction.ipynb
   * world_map.ipynb
+ 
+## Turkey
+### City Stats (number of cases per hundred thousand people)
+
+The number of cases tends to decrease after the peak in our 3 big cities. Although we have entered the plateau period, the decrease continues slowly.
+
+![alt text](media/istanbul.png)
+![alt text](media/ankara.png)
+![alt text](media/izmir.png)
